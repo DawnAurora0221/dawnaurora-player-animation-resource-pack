@@ -1,2 +1,2 @@
 mirrors:
-mirrors.dawnaurora.dawnaurora.eu.cc
+mirrors.cdns.dawnaurora.eu.cc
