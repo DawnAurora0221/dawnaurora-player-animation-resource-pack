@@ -187,8 +187,6 @@
     <td style="padding: 10px; border-bottom: 1px solid rgba(124,58,237,0.2);
 <div align="center">
 
-<sub>⚠️ 以下 README 包含内嵌 HTML+CSS，请在 GitHub 上查看以获得最佳视觉效果</sub>
-
 <br/><br/>
 
 <div style="
